@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0189-rotate-array) |
