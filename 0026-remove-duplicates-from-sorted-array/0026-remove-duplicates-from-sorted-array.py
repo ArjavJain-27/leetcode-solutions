@@ -1,7 +1,6 @@
 class Solution:
     def removeDuplicates(self, nums):
-        if not nums:
-            return 0
+
 
         slow = 0
 
@@ -11,4 +10,3 @@ class Solution:
                 nums[slow] = nums[fast]
 
         return slow + 1
-        
