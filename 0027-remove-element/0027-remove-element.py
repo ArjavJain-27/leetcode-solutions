@@ -1,10 +1,10 @@
 class Solution:
     def removeElement(self, nums, val):
-        k = 0
+        slow = 0
 
-        for i in range(len(nums)):
-            if nums[i] != val:
-                nums[k] = nums[i]
-                k += 1
+        for fast in range(len(nums)):
+            if nums[fast] != val:
+                nums[slow] = nums[fast]
+                slow += 1
 
-        return k
+        return slow
