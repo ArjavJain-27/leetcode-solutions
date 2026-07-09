@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Simulation
 |  |
 | ------- |
@@ -65,4 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
