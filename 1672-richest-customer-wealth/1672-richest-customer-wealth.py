@@ -1,10 +1,9 @@
 class Solution:
     def maximumWealth(self, accounts):
-        richest = 0
+        max_wealth = 0
 
         for customer in accounts:
             wealth = sum(customer)
-            richest = max(richest, wealth)
+            max_wealth = max(max_wealth, wealth)
 
-        return richest
-        
+        return max_wealth
