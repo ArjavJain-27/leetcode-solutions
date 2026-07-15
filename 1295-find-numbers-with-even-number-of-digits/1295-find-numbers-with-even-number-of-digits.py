@@ -1,5 +1,5 @@
 class Solution:
-    def findNumbers(self, nums: List[int]) -> int:
+    def findNumbers(self, nums):
         count = 0
 
         for num in nums:
