@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Greedy
 |  |
