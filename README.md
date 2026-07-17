@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Design
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
