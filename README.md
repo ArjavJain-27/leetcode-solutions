@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
