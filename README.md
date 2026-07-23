@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0704-binary-search) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
