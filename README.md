@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
