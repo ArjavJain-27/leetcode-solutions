@@ -1,10 +1,13 @@
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
-        left, right = 0, len(s) - 1
+    def isPalindrome(self, s):
+        left = 0
+        right = len(s) - 1
 
         while left < right:
+
             while left < right and not s[left].isalnum():
                 left += 1
+
             while left < right and not s[right].isalnum():
                 right -= 1
 
