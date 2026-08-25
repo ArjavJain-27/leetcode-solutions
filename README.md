@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
