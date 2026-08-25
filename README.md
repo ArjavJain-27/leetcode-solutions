@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1927-sum-game) |
 ## Design
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1927-sum-game](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
