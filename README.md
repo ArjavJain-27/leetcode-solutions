@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1927-sum-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
 | ------- |
