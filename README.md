@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Design
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/0136-single-number) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ArjavJain-27/leetcode-solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
